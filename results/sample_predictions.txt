@@ -1,0 +1,22 @@
+Model: Logistic Regression + TF-IDF
+==========================================================================================
+[CORRECT] TRUE=positive PRED=positive | The installation was completed on time and everything works perfe
+[CORRECT] TRUE=positive PRED=positive | I like the new tracking and it is easy to use.
+[CORRECT] TRUE=neutral  PRED=neutral  | Please tell me how to update my account details. My ticket number
+[CORRECT] TRUE=negative PRED=negative | I am very unhappy because my account has not worked since this mo
+[CORRECT] TRUE=negative PRED=negative | The router keeps failing and support has not resolved my issue.
+[CORRECT] TRUE=negative PRED=negative | I have raised multiple tickets but nobody has fixed the problem.
+[CORRECT] TRUE=neutral  PRED=neutral  | I want to understand the warranty terms for this product. Please 
+[CORRECT] TRUE=neutral  PRED=neutral  | Can you share the status of my account request?
+[CORRECT] TRUE=neutral  PRED=neutral  | I would like to know more about the available plans. Please respo
+[CORRECT] TRUE=neutral  PRED=neutral  | Can someone explain the difference between the plans?
+[CORRECT] TRUE=negative PRED=negative | I have raised multiple tickets but nobody has fixed the problem.
+[CORRECT] TRUE=neutral  PRED=neutral  | I need information about the payment process. Please respond as s
+[CORRECT] TRUE=negative PRED=negative | Billing is incorrect and I was charged twice this month.
+[CORRECT] TRUE=positive PRED=positive | Your support team resolved my issue quickly. Thank you.
+[CORRECT] TRUE=neutral  PRED=neutral  | Can you confirm whether my ticket has been assigned?
+[CORRECT] TRUE=neutral  PRED=neutral  | I need help finding the invoice for my last order. My ticket numb
+[CORRECT] TRUE=neutral  PRED=neutral  | I need help finding the invoice for my last order.
+[CORRECT] TRUE=negative PRED=negative | I want to cancel because the service quality is poor and unreliab
+[CORRECT] TRUE=neutral  PRED=neutral  | I am checking if there is any scheduled maintenance today. Please
+[CORRECT] TRUE=negative PRED=negative | I am very unhappy because my dashboard has not worked since three
