@@ -1,0 +1,7 @@
+model	class	precision	recall	f1-score	support
+NaiveBayes_BoW	negative	1	1	1	7
+NaiveBayes_BoW	neutral	1	1	1	7
+NaiveBayes_BoW	positive	1	1	1	6
+LogReg_TfIdf	negative	1	1	1	7
+LogReg_TfIdf	neutral	1	1	1	7
+LogReg_TfIdf	positive	1	1	1	6
